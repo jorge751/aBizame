@@ -1,25 +1,34 @@
-import logo from './logo.svg';
+
+//
+//  Lanza la aplicación !!!
+//
+
+//	Framework !!!
+import React from 'react';
+
+//	Administración !!!
+
+//	Comercio !!!
+
+//	Compartido !!!
+import { Navbar, Footer } from './shared';
+
+//  Ruteo !!!
+import Router from './Router';
+
+//	CSS !!!
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+//	Default !!!
+export default function App() {
 
-export default App;
+    //	Render !!!
+    return (
+        <div className='App'>
+            <Navbar />
+            <Router />
+            <Footer />
+        </div>
+    );
+
+};
