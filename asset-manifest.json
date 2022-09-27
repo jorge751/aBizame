@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a218a5a2.css",
-    "main.js": "/static/js/main.44a1267d.js",
-    "static/js/787.f1c6c432.chunk.js": "/static/js/787.f1c6c432.chunk.js",
-    "static/media/logo.png": "/static/media/logo.46702fad748556301cae.png",
-    "index.html": "/index.html",
-    "main.a218a5a2.css.map": "/static/css/main.a218a5a2.css.map",
-    "main.44a1267d.js.map": "/static/js/main.44a1267d.js.map",
-    "787.f1c6c432.chunk.js.map": "/static/js/787.f1c6c432.chunk.js.map"
+    "main.css": "/jorge751/aBizame.git/static/css/main.a218a5a2.css",
+    "main.js": "/jorge751/aBizame.git/static/js/main.5ba47259.js",
+    "static/js/787.f1c6c432.chunk.js": "/jorge751/aBizame.git/static/js/787.f1c6c432.chunk.js",
+    "static/media/logo.png": "/jorge751/aBizame.git/static/media/logo.46702fad748556301cae.png",
+    "index.html": "/jorge751/aBizame.git/index.html",
+    "main.a218a5a2.css.map": "/jorge751/aBizame.git/static/css/main.a218a5a2.css.map",
+    "main.5ba47259.js.map": "/jorge751/aBizame.git/static/js/main.5ba47259.js.map",
+    "787.f1c6c432.chunk.js.map": "/jorge751/aBizame.git/static/js/787.f1c6c432.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a218a5a2.css",
-    "static/js/main.44a1267d.js"
+    "static/js/main.5ba47259.js"
   ]
 }
